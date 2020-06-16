@@ -5,7 +5,7 @@ promise
     console.log(data);
 })
     .catch(error => {
-        console.log(error);
+        console.log(error)
     });
 
     // posting data using jquery
