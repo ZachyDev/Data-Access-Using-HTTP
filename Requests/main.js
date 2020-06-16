@@ -7,4 +7,4 @@ request.onload = () => {
     const data = JSON.parse(response);
     console.log(data);
 }
-request.send();
+request.send();  
